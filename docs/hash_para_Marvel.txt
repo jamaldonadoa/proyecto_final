@@ -1,0 +1,8 @@
+http://gateway.marvel.com/v1/public/comics?ts=1&apikey=8a432a54a0c45f83ea1e0ba67bb5e322&hash=8856823601a2b25665d210eabe018e39
+
+
+Lo único que deben cambiar de esa dirección es el pedazo donde indica en este vínculo https://developer.marvel.com/docs
+
+
+
+
